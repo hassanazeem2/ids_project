@@ -1,4 +1,4 @@
-https://i.imgur.com/5VckShl.png
+![image](https://github.com/hassanazeem2/ids_project/assets/134735051/fbad269e-931e-4ec2-944c-01f4efa5ba9c)
 
 
 This is a simple Intrusion Detection System (IDS) implemented in Python using the Scapy library. The IDS monitors network traffic and highlights potential
